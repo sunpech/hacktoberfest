@@ -12,3 +12,4 @@ See: https://hacktoberfest.digitalocean.com
 
 ## 2017
 * Pull request 5.
+* Pull request 6.
