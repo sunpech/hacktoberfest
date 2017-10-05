@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-My Hacktoberfest repo.
+My Hacktoberfest repo. Check status [here](https://hacktoberfestchecker.herokuapp.com)
 
 See: https://hacktoberfest.digitalocean.com
 
